@@ -12,7 +12,7 @@ A learning project built by following a Unity tutorial series. This project is f
 The goal is to gain hands-on experience with Unity and C# by building out a small RPG prototype.
 
 ## 🛠️ Tools & Technologies
-- **Unity** (version: specify your exact version, e.g. *2022.3 LTS*)
+- **Unity** 
 - **C#** (scripting)
-- **Visual Studio / VS Code** (IDE)
+- **Visual Studio**
 - **Git & GitHub** (version control)
